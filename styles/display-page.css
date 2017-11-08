@@ -1,0 +1,50 @@
+main {
+	font-size: 0;
+}
+
+.centered {
+text-align: center;
+}
+
+.container {
+margin-top: 50px;
+margin-left: auto;
+margin-right: auto;
+width: 800px;
+border: solid black 1px;
+}
+
+.box {
+	display: inline-block;
+	border: solid black 1px;
+}
+
+.top {
+	width: 50%;
+	height: 200px;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.bottom {
+	width: 33.33%;
+	height: 300px;
+}
+
+.grey {
+background-color: grey;
+}
+
+.black {
+background-color: black;
+}
+
+.gold {
+background-color: orange;
+}
